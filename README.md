@@ -9,7 +9,7 @@ Then open terminal and type the following:
 
 git clone git@github.com:Marvin-Montero/Server-Chat.git
 
-Now when you want to run the program write the following in the corresponding folder:
+Now when you want to run the program write the following:
 
 Server.go --> go run server.go
 
