@@ -1,7 +1,7 @@
 # Server Chat
 Simple server chat made with Golang
 
-#Installation
+# Installation
 
 Server.go --> go run server.go
 
