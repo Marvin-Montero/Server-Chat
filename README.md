@@ -3,6 +3,8 @@ Simple server chat made with Golang
 
 # Installation
 
+git clone git@github.com:Marvin-Montero/Server-Chat.git
+
 Server.go --> go run server.go
 
 Client.go --> go run client.go
